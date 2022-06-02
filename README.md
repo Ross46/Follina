@@ -1,4 +1,4 @@
-# Just a quick updaet of my work
+# Just a quick update of my work
 
 ## Nothing is perfect, but some updates to others who may find it usefull
 ---
