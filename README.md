@@ -6,3 +6,6 @@
 - Found a way to run an installer
 - User interaction needed
 - Shabby work
+
+### Update 1
+- CVE-2021-3331 can be used to open calc.exe, reverse shell yet to be tried
